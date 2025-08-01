@@ -1,16 +1,18 @@
-import requests
+identify a real time problem that could solved with thehelp of iot
+identify the solutionimport requests
 from bs4 import BeautifulSoup
-
+#paste your website url here
 url = "https://www.thefactsite.com/soccer-facts/"
 headers = {"User-Agent": "Mozilla/5.0"}
 
 response = requests.get(url, headers=headers)
 soup = BeautifulSoup(response.content, 'html.parser')
 
-# Get all <p class="list"> elements
+# To get all <p class="list"> elements change accordingly to scarp wanted
 facts = soup.find_all("p", class_="list")
 
 # Save facts to a text file
+# This creates a file named football_facts.txt
 with open("football_facts.txt", "w", encoding="utf-8") as f:
     for i, fact in enumerate(facts, 1):
         text = fact.get_text().strip()
