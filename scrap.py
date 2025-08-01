@@ -1,5 +1,4 @@
-identify a real time problem that could solved with thehelp of iot
-identify the solutionimport requests
+
 from bs4 import BeautifulSoup
 #paste your website url here
 url = "https://www.thefactsite.com/soccer-facts/"
