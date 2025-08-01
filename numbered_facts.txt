@@ -1,25 +1,60 @@
-1. Lionel Messi was diagnosed with a growth hormone deficiency at age 11, requiring treatment that cost over $1,000 per month.
-2. Barcelona agreed to pay for Lionel Messi’s medical treatment after being impressed by his talent in a youth trial.
-3. Lionel Messi’s first contract with FC Barcelona was written on a napkin during an informal meeting at a restaurant.
-4. Lionel Messi scored a first senior goal for Barcelona in 2005, assisted by Ronaldinho, at just 17 years old.
-5. Every time Lionel Messi scores a goal, he points to the sky as a tribute to his late grandmother who supported his early football dreams.
-6. Lionel Messi has won the Ballon d'Or a record 8 times as of 2023, the most by any player in football history.
-7. In 2012, Lionel Messi set a Guinness World Record by scoring 91 goals in a single calendar year.
-8. Lionel Messi won the first major senior international trophy in 2021, lifting the Copa América with Argentina.
-9. As a child, Lionel Messi was extremely shy and often stayed silent during training sessions with his youth teams.
-10. Lionel Messi is the only footballer to score in 17 consecutive UEFA Champions League seasons.
-11. More than 1,000 official matches have been played by Lionel Messi, making him one of the few players to reach this elite milestone.
-12. The number 30 shirt was worn by Lionel Messi during his early years at Barcelona, before switching to 19 and eventually the iconic 10.
-13. A large tattoo of his mother’s face is inked on the back of Lionel Messi, close to his heart.
-14. Lionel Messi holds the record for the most goals scored in La Liga history, surpassing 470 goals.
-15. In the 2012–13 season, Lionel Messi scored in 21 consecutive La Liga matches, netting against every team in the league.
-16. Lionel Messi scored the 500th career goal in dramatic fashion against Real Madrid in 2017, celebrating by holding up his shirt to rival fans at the Bernabéu.
-17. The all-time top scorer in El Clásico, the fierce rivalry between Barcelona and Real Madrid, is Lionel Messi.
-18. A historic five-goal performance was delivered by Lionel Messi in a single Champions League match against Bayer Leverkusen in 2012.
-19. By the age of 30, Lionel Messi had already been named FIFA’s Player of the Year five times.
-20. Lionel Messi is the only player to win the Golden Ball at two different FIFA World Cups—first in 2014 and again in 2022.
-21. The FIFA World Cup trophy was finally lifted by Lionel Messi in 2022 after a legendary campaign with Argentina.
-22. More career assists have been recorded by Lionel Messi than any player in football history—over 350.
-23. One of the longest and most celebrated rivalries in football history is between Lionel Messi and Cristiano Ronaldo, lasting more than 15 years.
-24. A straight red card has never been received by Lionel Messi in club football, and only one red was shown at the international level during his debut.
-25. A solo goal scored by Lionel Messi against Getafe in 2007 mirrored Diego Maradona’s famous “Goal of the Century,” starting from the halfway line.
+1. Mark Hughes once played for Wales at noon and then, hours later, appeared for Bayern Munich in Germany the same day—making him the only pro to represent two teams in one calendar day.
+2. Approximately 3.5 billion people worldwide watched the 2018 FIFA World Cup, including over 1 billion who viewed the final between France and Croatia.
+3. Only eight nations have ever won the Men's World Cup: Brazil, Germany, Italy, Argentina, Uruguay, France, England, and Spain.
+4. Kylian Mbappé, at 19, became the youngest player since Pelé to score in a World Cup final—scoring for France in 2018 against Croatia.
+5. The Cambridge Rules, established in 1848 by Cambridge University students, were among the first codified soccer regulations, banning handling rules and appointing only goalkeepers to catch the ball.
+6. Sheffield FC, founded in 1857, is recognized as the world’s oldest independent club still playing under its own name.
+7. The Football Association (FA) was founded in October 1863 in London, laying the foundation for modern organized football.
+8. The FA Cup, started in 1871, is the oldest enduring club knockout competition in the game.
+9. Dresden English FC, established in Germany in 1874 by English residents, was the first soccer club outside Britain (it folded in 1898).
+10. The FIFA World Cup was canceled in 1942 and 1946 due to World War II, before resuming in 1950.
+11. Japan’s Kazuyoshi Miura, famously still active in pro football past age 50, became the oldest ever professional player when playing in 2021.
+12. Real Madrid is the most successful club in European competition, with 13 UEFA Champions League titles and a trophy haul exceeding 35 major trophies.
+13. Al Ahly of Egypt holds the record for the most trophies won by any club, amassing over 125 titles through 2024.
+14. Linfield FC (Northern Ireland) leads globally with 119 domestic titles and holds the overall top spot with 275 trophies.
+15. Turkmenistan’s Arkadag FC once put together a 61‑match winning streak in 2023–2024—the longest known for any club.
+16. Celtic FC went 62 matches unbeaten between 1915–1917, behind the all‑time record.
+17. FC Arkadag also compiled a 61‑match losing streak (national team context)—an astonishing negative record.
+18. Kiribati remains an unbroken national side, failing to win any match up to 2024—a rare achievement in its own right.
+19. Flamengo has scored 13,085 goals in official matches, the highest total in club football history.
+20. Liverpool has netted over 9,200 goals in top‑level matches alone, another extraordinary tally.
+21. The longest football match on record lasted 3 hours and 23 minutes, played between Stockport County and Doncaster Rovers in 1946.
+22. The Isles of Scilly League consists of just two teams—the world’s smallest league by participation.
+23. Greenland’s national league is played over just 7 days, making it the shortest national championship globally.
+24. The first international match, Scotland vs England, ended 0–0 in Glasgow on 30 November 1872—recognized as the first official international football match.
+25. Włodzimierz Chomicki scored the very first documented goal in Polish/Ukrainian football history in the 1890s, and has a monument in Lviv.
+26. In the world’s highest‑scoring match, AS Adema beat SO l’Emyrne 149–0 in Madagascar in 2002—entirely made up of protest own‑goals.
+27. Just Fontaine scored 13 goals in a single World Cup, a record that still stands from 1958.
+28. Fastest professional goal: 1.8 seconds—scored by Ricardo Olivera in Uruguay, 1998.
+29. Nawaf Al‑Abed holds the fastest goal ever at 2.1 seconds in a Saudi youth match.
+30. Tommy Ross scored a hat‑trick in 90 seconds in 1964—a record speed for a professional hat‑trick.
+31. Peter Shilton made 1,387 professional appearances, more than any other outfield player ever.
+32. Isaak Hayik, age 73, played professionally for Israeli side Ironi Or Yehuda in 2019—the oldest professional ever.
+33. Eric Godpower Marshall, at age 10, became the youngest-ever professional debutant in Liberia.
+34. The Maracanã stadium hosted nearly 199,854 in a 1950 World Cup match (Brazil vs Uruguay)—the largest recorded attendance ever.
+35. Arthur Wharton, who turned pro in 1889 for Rotherham Town, was the first Black professional footballer.
+36. Christine Sinclair of Canada has scored 186 international goals, the highest in women’s football history.
+37. Lionel Messi has won eight Ballon d’Or awards (record), surpassing any other player.
+38. The fastest recorded hat‑trick came from Sadio Mané (1 min 10 sec) but other sources cite Tommy Ross; either way, incredible speed.
+39. FIFA has 211 member associations, exceeding the UN’s 193 sovereign members.
+40. Most goals ever scored by a goalkeeper: Rogério Ceni, with 131 in his career.
+41. The term “soccer” comes from “association football”, shortened in England in the late 19th century.
+42. The World Cup’s official match ball is called the “Telstar,” used since 1970.
+43. Pakistan’s city of Sialkot produces millions of soccer balls annually, including official FIFA match balls.
+44. FIFA was founded in Paris in 1904, aligning multiple football associations under a governing body.
+45. Mário Zagallo is the only person to win the World Cup as both a player (1958 & 1962) and a coach (1970).
+46. Pelé remains the only player to have won three Men’s World Cups (1958, 1962, and 1970).
+47. Cristiano Ronaldo is the top international goalscorer in men's football history, with over 900 career goals.
+48. Jose Mourinho’s teams went nine full years unbeaten at home across four clubs between 2002–2011.
+49. Philipp Lahm never received a red card in his entire professional career, and once went an entire year without committing a foul.
+50. Chris Nicholl scored all the goals in a 2–2 draw: an own goal, then two for his team in the same match in 1976.
+51. AC Milan won Serie A in 1993–94 scoring just 36 goals, while conceding only 15—a defensive masterclass.
+52. Wigan Athletic won the FA Cup but were relegated from the Premier League in the same season (2012–13)—a rare double tragedy/triumph.
+53. Carlos “Kaiser” Raposo signed for numerous clubs (1979–1992) yet never played a competitive match.
+54. Aston Villa never had a letter J in their name—among British clubs, only Hull City and St Johnstone share that rarity.
+55. Gary Hooper is the only player to score across an astonishing range: Premier League, Championship, League One, League Two, FA Cup, League Cup, FA Trophy, Football League Trophy, Scottish Premier League, Scottish Cups, Champions League, Europa League.
+56. Swiss national team were eliminated at 2006 World Cup without conceding a goal, a statistically odd exit.
+57. Sevilla won three consecutive Europa Leagues with different goalkeepers in each final, yet all were at the club during that time.
+58. Durand Cup (India) is the world’s third oldest football tournament, after England’s FA Cup and the Scottish Cup.
+59. Zlatan Ibrahimović has played for nine clubs across four countries, including Ajax, Barcelona, Paris and Manchester United.
+60. Football was played aboard the International Space Station in 2018, marking the first match ever played in space by Russian cosmonauts during the World Cup celebrations
